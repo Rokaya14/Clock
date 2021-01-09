@@ -1,0 +1,14 @@
+#clock{
+  margin-top: 4rem;
+  padding: 1rem 2rem;
+  position: relative;
+  left: 10rem;
+  width: 400px;
+  border-radius: 80px ;
+  border: black 5px ;
+  background-color: rgb(216, 219, 207);
+ 
+}
+#time{
+  color: rgb(5, 150, 150);
+}
